@@ -84,7 +84,7 @@ li:hover>span {
     padding: 10px 20px;
     position: relative;
     margin: 0;
-    text-transform: uppercase;
+    font-family: 'Anton', sans-serif;
 }
 
 li.completed {
